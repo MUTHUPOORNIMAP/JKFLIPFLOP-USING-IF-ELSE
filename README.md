@@ -1,5 +1,6 @@
-# JKFLIPFLOP-USING-IF-ELSE
-
+# JKFLIPFLOP USING QUARTUS SOFTWARE
+# Name: Muthu Poornima P
+# Reg no: 212224240099
 **AIM:** 
 
 To implement  JK flipflop using verilog and validating their functionality using their functional tables
@@ -9,6 +10,7 @@ To implement  JK flipflop using verilog and validating their functionality using
 Quartus prime
 
 **THEORY**
+
 
 **JK Flip-Flop**
 
@@ -35,14 +37,34 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 **Procedure**
 
 /* write all the steps invloved */
+step-1 Go to quartus software.
+
+step-2 Set new environment.
+
+step-3 Type the code to implement JK flipflop using verilog and validating their
+functionality using their functional tables.
+
+step-4 Run the program.
+
+step-5 Give inputs in the waveform table .
+
+step-6 Run the program.
+
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+![image](https://github.com/user-attachments/assets/9c434e80-5bd1-495d-b3e0-60206db408db)
+
 
 **RTL LOGIC FOR FLIPFLOPS**
 
+![image](https://github.com/user-attachments/assets/e4cf0be8-1865-4f2b-ad94-11374b14318b)
+
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
+![image](https://github.com/user-attachments/assets/ad705af8-33b5-4153-b673-9614c19f9c54)
+
 
 **RESULTS**
+
+Thus,the code is executed successfully.
